@@ -16,4 +16,4 @@ Analyzed eye prescription dataset to understand age distribution patterns for ta
 Two age groups need more eye-care attention - helps clinics plan better!
 
 ### 🔗 LinkedIn Post
-Coming soon!
+https://www.linkedin.com/feed/update/urn:li:activity:7519601348796149760/
